@@ -1,0 +1,11 @@
+.bt{
+    font-size: 28px;
+    font-family: Arial, Helvetica, 'Times New Roman', Times, serif, sans-serif;
+}
+#fs{
+    background-color: black;
+    color: white;
+}
+#sc{
+    background-color: yellow;
+}
