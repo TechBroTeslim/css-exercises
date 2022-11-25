@@ -1,0 +1,20 @@
+.pa{
+    background-color: #ffc0cb;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif DejaVu Sans;
+}
+
+#cool{
+    font-size: 24px;
+}
+
+#sec{
+    font-size: 36px;
+    color: rgb(75, 75, 247);
+}
+
+#fourth{
+    background-color: rgb(152, 248, 152);
+    font-size: 24px;
+    font-weight: bold;
+}
